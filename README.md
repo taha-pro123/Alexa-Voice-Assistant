@@ -18,8 +18,11 @@ to run:
   Make sure you have Python Installed
   
   Install the required pacages (which are):
+  
     1. SpeechRecognition
+    
     2. pyttsx3
+    
     3. webbrowser
 
 easter egg:
